@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import base.BaseTest;
 
-public class TestHandleAutoSuggestions_UsingKeyActions extends BaseTest {
+public class TestUsingKeyActions extends BaseTest {
 
 	@Test
 	public void testUsingArrowKeys() {
