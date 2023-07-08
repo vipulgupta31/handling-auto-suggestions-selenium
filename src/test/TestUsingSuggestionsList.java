@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import base.BaseTest;
 
-public class TestHandleAutoSuggestions_UsingWebScrapping extends BaseTest {
+public class TestUsingSuggestionsList extends BaseTest {
 
 	@Test
 	public void testUsingWebScraping_Google() {
